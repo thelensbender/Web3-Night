@@ -19,3 +19,5 @@ contract EventTicketERC20 is ERC20, Ownable {
       _transfer(address(this), _user, _amount);
    }
 }
+
+// TOKEN_ADDRESS="0xC002F00089672Cad0Af1Bf02E8d0c51B6F3c1F0B"
